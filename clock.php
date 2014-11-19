@@ -1,0 +1,1 @@
+<?php echo date("D, d-m-Y, H:i:s"); ?>

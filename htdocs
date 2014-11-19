@@ -1,0 +1,10 @@
+<?php 
+	session_start();
+	if ( $_SESSION[ 'username' ] != "" ) {
+		include 'pages/home.php';
+	}
+	else
+	{
+		include 'pages/loginform.php';
+	}
+?>

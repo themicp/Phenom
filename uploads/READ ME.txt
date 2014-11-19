@@ -1,0 +1,29 @@
+Team Wersaq - Pwning The Community Since 2008
+------------------------
+Mac OS X Leopard VMware Image + VMware Workstation Pakage ReadMe
+------------------------
+
+This is a complete pakage to run Mac OS X as guest operative system
+while you run Windows. First, unzip "Mac OS X Leopard.7z". Once you've
+done that, install VMware Workstation. When installation is done, it will prompt
+you to enter a serial key. Enter one of the following below:
+
+Name: Any
+Company: Any
+
+Serials:
+M3J45-02CD5-50K9Y-4Z8X6
+M35PM-RP24K-9103V-4QA66
+X39UT-E2HD7-J21A9-479XZ
+R91WH-AFRDL-4CM88-4Y9M3
+42NPJ-CMG4Q-P746Y-4YD6A
+7VJ2D-V2K6P-23QFD-4ZXZK
+RR18N-38G80-YEJEU-4PZM3
+5VEKJ-Z64FL-T101C-4FE5A
+DATPN-GMPAY-9061C-4GU4U
+9LNWX-L2RAD-WC44Z-4QUXU
+MRRPT-QW64Y-81139-4PCF6
+6AHYT-J8625-101F8-4QT6F
+
+--------------------------
+Then, use u're mind to get it running, very easy :-)

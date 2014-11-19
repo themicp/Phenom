@@ -1,0 +1,96 @@
+<html>
+    <head>
+        <title>JS Box</title>
+        <style type="text/css">
+            div#box {
+                width: 100px;
+                height: 100px;
+                border: 1px solid black;
+                position: relative;
+                left: 1;
+                background-color: blue;
+                opacity: 1;
+            }
+            body {
+                background-color: chocolate;
+            }
+            div#debug_1 {
+                background-color: white;
+                border: 1px solid black;
+                width: 48%;
+                height: 300px;
+                overflow: auto;
+                margin-top: 15px;
+                float: left;
+            }
+            div#debug_2 {
+                background-color: white;
+                border: 1px solid black;
+                width: 48%;
+                height: 300px;
+                overflow: auto;
+                margin-top: 15px;
+                float: right;
+            }
+        </style>
+        <script type="text/javascript">
+            var m = 0;
+            var o = 1;
+            var n;
+            var t = true;
+            function set() 
+                {
+                window.setTimeout( howtomove, 1000 );		
+                }
+            function howtomove()
+                {
+                /*var mess_1 = document.createElement( 'div' );
+                mess_1.appendChild( document.createTextNode( 'opacity = ' + o ) );
+                var mess_2 = document.createElement( 'div' );
+                mess_2.appendChild( document.createTextNode( 'left = ' + m ) );
+                document.getElementById( 'debug_1' ).appendChild( mess_1 );
+                document.getElementById( 'debug_2' ).appendChild( mess_2 ); */         
+                if ( t )
+                    {
+                    m += 5;
+                    }
+                else 
+                    {
+                    m -= 5;
+                    t = false;
+                    }
+                if ( m == 400 ) 
+                    {
+                    t = false;
+                    }
+                else if ( m == 0 )
+                    {
+                    t = true;
+                    }
+                /*if ( n )
+                    {
+                    o +=0.05;
+                    }
+                else
+                    {
+                    o -=0.05;
+                    n = false;
+                    }				
+                if ( o>1 ) 
+                    {
+                    n = false;
+                    }
+                else if ( o<0 )
+                    {
+                    n = true;
+                    }*/
+                document.getElementById( "box" ).style.opacity=o;
+                document.getElementById( "box" ).style.left=m;
+                setTimeout( howtomove, 50 );
+                }
+        </script>
+    </head>
+    <body onload="howtomove()">
+            <div id="box"></div>
+    </body>
+</html>

@@ -1,0 +1,69 @@
+div#top {
+	font-style:italic;
+	color:grey;
+	font-size:13px;
+	text-align:right;
+}
+
+body {
+	width:50em;
+	height:auto;
+	margin:auto;
+	background-image:url('/bg/background.png');
+	background-repeat:repeat-x;
+}
+
+.top {
+	border-left: grey 1px solid;
+	padding: 5px;
+}
+
+a {
+	text-decoration:none;
+}
+
+span#loggeduser {
+	padding:5px;
+}
+
+.navopt {
+	background-color:rgb(50,116,208);
+	padding:10px;
+	color:white;
+}
+
+div#navmenu {
+	margin-top:50px;
+	font-size:15px;
+	text-align:center;
+}
+
+#main {
+	width:50em;
+	background-color:rgb(242,242,242);
+	margin-top:20px;
+}
+
+textarea.content {
+	width:99%;
+	height:50em;
+}
+#adminnotes {
+	width:200px;
+	height:200px;
+	background-color:rgb(247,226,112);
+	border:none;
+	margin-top:100px;
+}
+div#mainpage {
+	width:100%;
+	margin-top:20px;
+	background-color:rgb(242,242,242);
+}
+.savenote {
+	margin-top:5px;
+	width:200px;
+}
+.savenote , #adminotes {
+	display:block;
+}

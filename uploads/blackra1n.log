@@ -1,0 +1,108 @@
+***
+INFO:  welcome to blackra1n for windows
+INFO:  loaded dll at C:\Program Files\Common Files\Apple\Mobile Device Support\bin\iTunesMobileDevice.dll
+INFO:  button clicked
+INFO:  internal device callback called
+INFO:  callbacks registered
+INFO:  sent enter recovery command
+INFO:  internal recovery callback called
+INFO:  unregistered normal mode callback
+INFO:  go go gadget ra1n
+INFO: send command started
+INFO: file opened
+ioctl: 1
+INFO: command setenv auto-boot true sent
+INFO: send command started
+INFO: file opened
+ioctl: 0
+INFO: command saveenv sent
+send payload: 0
+INFO: start sending exploit
+ioctl: 0
+INFO: exploit closed 0
+sent exploit
+INFO: send command started
+INFO: file opened
+ioctl: 1
+INFO: command geohot sent
+send picture: 0
+INFO: send command started
+INFO: file opened
+ioctl: 0
+INFO: command setpicture 0 sent
+INFO: send command started
+INFO: file opened
+ioctl: 0
+INFO: command bgcolor 1 1 1 sent
+send ramdisk: 0
+INFO: send command started
+INFO: file opened
+ioctl: 1
+INFO: command geohot sent
+INFO:  I JUST DROPPED IT LIKE ITS HOT
+WARN:  wtf who called this?
+INFO:  global callback finished
+INFO:  unused callback called
+INFO:  internal recovery callback called
+INFO:  unregistered normal mode callback
+INFO:  go go gadget ra1n
+INFO: send command started
+INFO: file opened
+ioctl: 1
+INFO: command setenv auto-boot true sent
+INFO: send command started
+INFO: file opened
+ioctl: 0
+INFO: command saveenv sent
+send payload: 0
+INFO: start sending exploit
+ioctl: 0
+INFO: exploit closed 0
+sent exploit
+INFO: send command started
+INFO: file opened
+ioctl: 1
+INFO: command geohot sent
+send picture: 0
+INFO: send command started
+INFO: file opened
+ioctl: 0
+INFO: command setpicture 0 sent
+INFO: send command started
+INFO: file opened
+ioctl: 0
+INFO: command bgcolor 1 1 1 sent
+send ramdisk: 0
+INFO: send command started
+INFO: file opened
+ioctl: 1
+INFO: command geohot sent
+INFO:  I JUST DROPPED IT LIKE ITS HOT
+WARN:  wtf who called this?
+INFO:  global callback finished
+INFO:  unused callback called
+***
+INFO:  welcome to blackra1n for windows
+INFO:  loaded dll at C:\Program Files\Common Files\Apple\Mobile Device Support\bin\iTunesMobileDevice.dll
+INFO:  button clicked
+INFO:  internal device callback called
+INFO:  callbacks registered
+INFO:  sent enter recovery command
+INFO:  internal recovery callback called
+INFO:  unregistered normal mode callback
+INFO:  go go gadget ra1n
+INFO: send command started
+INFO: file opened
+ioctl: 1
+INFO: command setenv auto-boot true sent
+INFO: send command started
+INFO: file opened
+ioctl: 0
+INFO: command saveenv sent
+send payload: 0
+INFO: start sending exploit
+ioctl: 0
+INFO: exploit closed 0
+sent exploit
+INFO: send command started
+INFO: file opened

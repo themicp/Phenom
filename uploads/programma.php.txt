@@ -1,0 +1,61 @@
+﻿			<table border="1" class="prog">
+					<caption>School Program</caption>
+					<thead>
+						<tr id="days">
+							<td>Monday</td>
+							<td>Tuesday</td>
+							<td>Wednesday</td>
+							<td>Thursday</td>
+							<td>Friday</td>
+						</tr>
+					</thead>
+					<tr>
+						<td class="td1">Γκιρκίζας(Αλγεβρα)</td>
+						<td class="td1">Γιαννακοπούλου(Ιστορία)</td>
+						<td class="td1">Κιτσέλης</td>
+						<td class="td1">Βαλσαμάκη</td>
+						<td class="td1">Μπούγια(Φυσική)</td>
+					</tr>
+					<tr>
+						<td class="td1">Γιαννακοπούλου(Ιστορία)</td>
+						<td class="td1">Κρίκου</td>
+						<td class="td1">Γκιρκίζας(Γεωμετρία)</td>
+						<td class="td1">Μπούγια(Χημεία)</td>
+						<td class="td1">Φραγγεδάκης</td>
+					</tr>
+					<tr>
+						<td class="td1">Παπαχρήστου</td>
+						<td class="td1">Μαρίνου</td>
+						<td class="td1">Παπαχρήστου</td>
+						<td class="td1">Γιαννακοπούλου(Γλώσσα)</td>
+						<td class="td1">Γκιρκίζας(Αλγεβρα)</td>
+					</tr>
+					<tr>
+						<td class="td1">Μαρίνου</td>
+						<td class="td1">Ζαμπέλη</td>
+						<td class="td1">Κυριακού</td>
+						<td class="td1">Γιαννακοπούλου(Ιστορία)</td>
+						<td class="td1">Μάγγου(Κείμενα)</td>
+					</tr>
+					<tr>
+						<td class="td1">Βαλσαμάκη</td>
+						<td class="td1">Μάγγου(Ελένη)</td>
+						<td class="td1">Μάγγου(Ελένη)</td>
+						<td class="td1">Γκιρκίζας(Αλγεβρα)</td>
+						<td class="td1">Κυριακού</td>
+					</tr>		
+					<tr>
+						<td class="td1">Φραγγεδάκης</td>
+						<td class="td1">Μάγγου(Κείμενα)</td>
+						<td class="td1">Μαρίνου</td>
+						<td class="td1">Μάγγου(ΚΠΑ)</td>
+						<td class="td1">Καραδάκη</td>
+					</tr>	
+					<tr>
+						<td class="td1">Κρίκου</td>
+						<td class="td1">Μπούγια</td>
+						<td class="td1">Μάγγου(ΚΠΑ)</td>
+						<td class="td1">Καραδάκη</td>
+						<td class="td1">Γιαννακοπούλου(Ιστορία)</td>
+					</tr>	
+				</table>
